@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,700&display=swap');
+
+.fastpay-button-container {
+  text-align: center;
+  min-width: 300px;
+}
+
+.fastpay-button {
+  font-family: 'Exo', 'Arial', 'Helvetica', sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 16pt;
+  text-align: center;
+  width: 100%;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.fastpay-proceed-to-checkout-button-separator {
+  display: inline-block;
+  opacity: .8;
+  margin: 0 0 1em;
+  text-align: center;
+}
+
+.payment_method_fastpaynow_by_fave img {
+  height: 18px;
+}
